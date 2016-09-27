@@ -3,3 +3,4 @@
 /venv
 /app/static/.webassets-cache
 /app/static/cache
+__pycache__
